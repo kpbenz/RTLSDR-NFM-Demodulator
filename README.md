@@ -5,4 +5,4 @@ The primary motivation to put this notebook together was my personal curiosity i
 
 More details here: 
 <a href="https://github.com/kpbenz/RTLSDR-NFM-Demodulator/blob/main/RTLSDR-NFM-Demodulator.pdf" target="_blank">PDF</a> or 
-<a href="https://github.com/kpbenz/RTLSDR-NFM-Demodulator/blob/main/RTLSDR-NFM-Demodulator.html" target="_blank">HTML</a> .
+<a href="https://html-preview.github.io/?url=https://github.com/kpbenz/RTLSDR-NFM-Demodulator/blob/main/RTLSDR-NFM-Demodulator.html" target="_blank">HTML</a> .
